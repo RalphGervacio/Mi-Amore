@@ -38,7 +38,7 @@ function typeWriter() {
 
 // Function for typing message inside modal
 function playTypingMessage() {
-    const message = "Every moment with you feels like a sweet melody under the Italian moon. You make my heart smile, my soul dance, and my world glow brighter with your love. Happy 2nd month of love, bella mia. I’ll keep loving you more with each passing day.";
+    const message = "Every moment with you feels like a sweet melody under the moon. You make my heart smile, my soul dance, and my world glow brighter with your love. Happy 2nd month of love, bella mia. I’ll keep loving you more with each passing day.";
 
     let idx = 0;
     const speed = 45;
